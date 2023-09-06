@@ -5,7 +5,7 @@ SHome là một đề tài nghiên cứu khoa học của nhóm 3 sinh viên ĐH
 Đề tài này vẫn đang trong quá trình update, nên không thể tránh khỏi những thiếu sót và một số bug... Mong quý thầy cô và quý anh chị chờ đón bản update version mới nhất của nhóm trong thời gian tới ạ. 
 Em xin chân thành cảm ơn !
 
-<h2> Link Demo </h2> <a href = "https://shome.vercel.app/"> Shome</a>.
+<h2> Link Demo: <a href = "https://shome.vercel.app/"> Shome</a> </h2> 
 
 <h2> Technologies used </h2>
 • NodeJS, MongoDB, PHP <br>
@@ -13,12 +13,22 @@ Em xin chân thành cảm ơn !
 • JavaScript, JQuery, ReactJS, Three.JS <br>
 
 <h2> Display </h2>
-<p> Link PDF </p> [SHome - Design.pdf](https://github.com/leeun22/SHome/files/12535498/SHome.-.Design.pdf)
-![SHome - Home_Page](https://github.com/leeun22/SHome/assets/117708296/ef1740c1-f44e-4f03-bdb9-094489c62c62)
-![SHome - Detail](https://github.com/leeun22/SHome/assets/117708296/a2d58320-eab8-4b26-9650-fcc96bc4347c)
+<p> Link PDF: </p>
+  
+[SHome - Design.pdf](https://github.com/leeun22/SHome/files/12535761/SHome.-.Design.pdf)
 
-<h2> Demo 360 degree panorama function </h2>
-https://github.com/leeun22/SHome/assets/117708296/a99ef101-5468-4617-b58b-4d9fd1ff4270
+![SHome - Home_Page](https://github.com/leeun22/SHome/assets/117708296/53d41d00-fc85-4e60-92ef-31b1233c0b80)
+![SHome - Detail](https://github.com/leeun22/SHome/assets/117708296/90ad679b-1fa1-4c3a-881d-52e5e64fed8c)
+
+<p>Demo 360 degree panorama function: </p>
+
+https://github.com/leeun22/SHome/assets/117708296/086c97ac-7d40-4601-8982-bcdf1073a80b
+
+
+
+
+
+
 
 
 
