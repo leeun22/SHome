@@ -2,11 +2,11 @@
 
 <h2> Description </h2>
 <p align="justify"> 
-  SHome là một đề tài nghiên cứu khoa học của nhóm 3 sinh viên ĐH. Trải qua 4 năm học, là sinh viên chúng em nhận ra được những khó khăn, rủi ro tiềm ẩn khi đi thuê phòng trọ không chỉ của sinh viên mà còn là nỗi sợ với những người xa quê lên thành phố làm việc. Chính vì vậy, với những kiến thức mà thầy cô truyền đạt lại trong 4 năm sinh viên, chúng em đã cùng nhau xây dựng lên website Shome - cung cấp đa dịch vụ về nhà trọ cho sinh viên, công nhân viên và người cho thuê. Với mong muốn sẽ giúp mọi người có thể dễ dàng tìm kiếm cho mình một căn nhà trọ phù hợp, tiện lợi và nhanh chóng nhất.
+  SHOME is a scientific research project of a group of three students. Over the 4 years of study, we are students. We realize the difficulties, risks latent when we rent a home not only for students but also fears with people far from our hometown to the city to work. Therefore, with the knowledge that teachers convey back in four school years, we have built up the SHOME website - providing multi-service accommodation for students, employees and tenants. With the desire to help people easily find themselves a suitable, convenient and fastest inn. 
   
-  Đề tài này vẫn đang trong quá trình update, nên không thể tránh khỏi những thiếu sót và một số bug... Mong quý thầy cô và quý anh chị chờ đón bản update version mới nhất của nhóm trong thời gian tới ạ. 
-
-  Em xin chân thành cảm ơn !
+  This topic is still in the process of updating, so shortcomings cannot be avoided and some bugs...Hope teachers and brothers and sisters will wait for the latest version of the group in the coming time. 
+  
+  I'm sincere thanks!
 </p>
 
 <h2> Link Demo: <a href = "https://shome.vercel.app/"> Shome</a> </h2> 
