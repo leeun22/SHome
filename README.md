@@ -20,7 +20,8 @@
   
 [SHome - Design.pdf](https://github.com/leeun22/SHome/files/12535761/SHome.-.Design.pdf)
 
-![SHome - Home_Page](https://github.com/leeun22/SHome/assets/117708296/53d41d00-fc85-4e60-92ef-31b1233c0b80)
+![home-page](https://github.com/leeun22/SHome/assets/117708296/aca02590-ee0b-42cc-b5ab-693fb7ef5790)
+
 ![SHome - Detail](https://github.com/leeun22/SHome/assets/117708296/90ad679b-1fa1-4c3a-881d-52e5e64fed8c)
 
 <p>Demo 360 degree panorama function: </p>
